@@ -11,6 +11,10 @@
 
 </script>
 
-<style>
+<style scoped>
+without scoped it is global
+    div {
+        border: 1px solid greenyellow;
+    }
 
 </style>

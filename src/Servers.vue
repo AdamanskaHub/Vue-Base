@@ -16,6 +16,9 @@
 
 </script>
 
-<style>
-
+<style scoped> 
+without scoped it is global
+    div {
+        border: 2px dashed fuchsia;
+    }
 </style>
